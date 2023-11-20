@@ -1,0 +1,15 @@
+{
+  "name": "login_test_1",
+  "version": "1.0.0",
+  "description": "A test to make a login thingo for the web. Just to keep myself productive and learn new skills over the summer :smile:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
